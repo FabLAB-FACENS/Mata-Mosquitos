@@ -1,7 +1,7 @@
 # Mata-Mosquitos
-Mata mosquitos customizado
+		Mata mosquitos customizado
 
-![plot text](https://github.com/FabLAB-FACENS/Mata-Mosquitos/blob/main/ProjetoPronto.png?raw=true)
+![alt text](https://github.com/FabLAB-FACENS/Mata-Mosquitos/blob/main/ProjetoPronto.png?raw=true)
 
 Inspirado no novo projeto sensação do canal Manual do
 Mundo do Iberê Thenório, Nós aqui do Fab resolvemos fazer
