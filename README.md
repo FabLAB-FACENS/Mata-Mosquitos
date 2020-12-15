@@ -1,5 +1,5 @@
 # Mata-Mosquitos
-		Mata mosquitos customizado
+	Mata mosquitos customizado
 
 ![alt text](https://github.com/FabLAB-FACENS/Mata-Mosquitos/blob/main/ArquivosDeImagem/ProjetoPronto.png)
 
@@ -28,5 +28,18 @@ idéia é reutilizar ao máximo de material que era para ser jogado
 fora, assim você consegue minimizar ao máximo o custo de produção
 desse projetinho. Então se você tiver algun cooler um pouco mais
 velho que não tenha mais uso, e alguns leds sobrando, por que não
-experimenta você mesmo? 
+experimenta você mesmo?
 
+Lista de Materiais:
+- 10 Resistores 120ohms
+- 10 leds UV
+- 1 Cooler velho
+- 1 conector Jack Fêmea
+- Placa MDF 500x600mm
+- 1 Fonte de alimentação 12V
+
+Equipamentos:
+- fios
+- Ferro de solda
+- cola para madeira ou super bonder
+- estanho de solda
